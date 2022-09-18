@@ -1,0 +1,11 @@
+{
+    "name": "math",
+    "description": "AutoIt3 math helper library",
+    "main": "main.au3",
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {
+        "au3unit": "~1.1"
+    },
+    "bin": {}
+}
