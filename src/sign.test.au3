@@ -1,4 +1,3 @@
-;#include <AutoItConstants.au3>
 #include "../au3pm/au3unit/testCase.au3"
 #include "constants.au3"
 #include "isNan.au3"
