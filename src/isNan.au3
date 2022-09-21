@@ -2,6 +2,7 @@
 
 #cs
 # Determines whether the passed value is NaN
+# @see https://www.codeproject.com/Articles/824516/Concept-of-NaN-IND-INF-and-DEN source material for producing #NaN
 #ce
 Func _Math_isNan($x)
     If VarGetType($x) == "Double" Then
