@@ -3,6 +3,7 @@
 
 #cs
 # Returns the natural logarithm (base e) of 1 + x, where x is the argument.
+# @see https://github.com/zloirock/core-js/blob/954f0fb8732b1cc0a38676f72761fd0872fc764f/packages/core-js/internals/math-log1p.js source
 #ce
 Func _Math_log1p($x)
     Local $n = +$x
