@@ -4,3 +4,5 @@
 #include "isInd.au3"
 
 assertTrue(_Math_isInd(_Math_ind()))
+$x = _Math_ind()
+assertFalse($x = $x)
